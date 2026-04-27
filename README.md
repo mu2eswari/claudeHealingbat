@@ -1,4 +1,4 @@
-## Jest Nodejs Supertest
+## Self healing with claude bat file and yml
 
 Simple example of Testing a Nodejs express REST API using Jest and Supertest.
 
